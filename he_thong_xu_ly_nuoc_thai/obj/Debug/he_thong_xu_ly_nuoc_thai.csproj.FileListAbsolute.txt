@@ -1,0 +1,31 @@
+C:\Users\tran dang\source\repos\he_thong_xu_ly_nuoc_thai\he_thong_xu_ly_nuoc_thai\bin\Debug\he_thong_xu_ly_nuoc_thai.exe.config
+C:\Users\tran dang\source\repos\he_thong_xu_ly_nuoc_thai\he_thong_xu_ly_nuoc_thai\bin\Debug\he_thong_xu_ly_nuoc_thai.exe
+C:\Users\tran dang\source\repos\he_thong_xu_ly_nuoc_thai\he_thong_xu_ly_nuoc_thai\bin\Debug\he_thong_xu_ly_nuoc_thai.pdb
+C:\Users\tran dang\source\repos\he_thong_xu_ly_nuoc_thai\he_thong_xu_ly_nuoc_thai\bin\Debug\NetToolKit.dll
+C:\Users\tran dang\source\repos\he_thong_xu_ly_nuoc_thai\he_thong_xu_ly_nuoc_thai\bin\Debug\SKCLNET.dll
+C:\Users\tran dang\source\repos\he_thong_xu_ly_nuoc_thai\he_thong_xu_ly_nuoc_thai\bin\Debug\SymbolFactoryDotNet.dll
+C:\Users\tran dang\source\repos\he_thong_xu_ly_nuoc_thai\he_thong_xu_ly_nuoc_thai\bin\Debug\SymbolFactoryNetEngine.dll
+C:\Users\tran dang\source\repos\he_thong_xu_ly_nuoc_thai\he_thong_xu_ly_nuoc_thai\obj\Debug\he_thong_xu_ly_nuoc_thai.csproj.AssemblyReference.cache
+C:\Users\tran dang\source\repos\he_thong_xu_ly_nuoc_thai\he_thong_xu_ly_nuoc_thai\obj\Debug\he_thong_xu_ly_nuoc_thai.Form1.resources
+C:\Users\tran dang\source\repos\he_thong_xu_ly_nuoc_thai\he_thong_xu_ly_nuoc_thai\obj\Debug\he_thong_xu_ly_nuoc_thai.Properties.Resources.resources
+C:\Users\tran dang\source\repos\he_thong_xu_ly_nuoc_thai\he_thong_xu_ly_nuoc_thai\obj\Debug\he_thong_xu_ly_nuoc_thai.csproj.GenerateResource.cache
+C:\Users\tran dang\source\repos\he_thong_xu_ly_nuoc_thai\he_thong_xu_ly_nuoc_thai\obj\Debug\he_thong_xu_ly_nuoc_thai.csproj.CoreCompileInputs.cache
+C:\Users\tran dang\source\repos\he_thong_xu_ly_nuoc_thai\he_thong_xu_ly_nuoc_thai\obj\Debug\he_thong_xu_ly_nuoc_thai.csproj.CopyComplete
+C:\Users\tran dang\source\repos\he_thong_xu_ly_nuoc_thai\he_thong_xu_ly_nuoc_thai\obj\Debug\he_thong_xu_ly_nuoc_thai.exe
+C:\Users\tran dang\source\repos\he_thong_xu_ly_nuoc_thai\he_thong_xu_ly_nuoc_thai\obj\Debug\he_thong_xu_ly_nuoc_thai.pdb
+C:\Users\tran dang\source\repos\he_thong_xu_ly_nuoc_thai\he_thong_xu_ly_nuoc_thai\bin\Debug\S7.Net.dll
+D:\DUC\New folder (2)\C#VSPLC_giuaki\C#VSPLC_giuaki\he_thong_xu_ly_nuoc_thai\he_thong_xu_ly_nuoc_thai\bin\Debug\he_thong_xu_ly_nuoc_thai.exe.config
+D:\DUC\New folder (2)\C#VSPLC_giuaki\C#VSPLC_giuaki\he_thong_xu_ly_nuoc_thai\he_thong_xu_ly_nuoc_thai\bin\Debug\he_thong_xu_ly_nuoc_thai.exe
+D:\DUC\New folder (2)\C#VSPLC_giuaki\C#VSPLC_giuaki\he_thong_xu_ly_nuoc_thai\he_thong_xu_ly_nuoc_thai\bin\Debug\he_thong_xu_ly_nuoc_thai.pdb
+D:\DUC\New folder (2)\C#VSPLC_giuaki\C#VSPLC_giuaki\he_thong_xu_ly_nuoc_thai\he_thong_xu_ly_nuoc_thai\bin\Debug\NetToolKit.dll
+D:\DUC\New folder (2)\C#VSPLC_giuaki\C#VSPLC_giuaki\he_thong_xu_ly_nuoc_thai\he_thong_xu_ly_nuoc_thai\bin\Debug\SKCLNET.dll
+D:\DUC\New folder (2)\C#VSPLC_giuaki\C#VSPLC_giuaki\he_thong_xu_ly_nuoc_thai\he_thong_xu_ly_nuoc_thai\bin\Debug\SymbolFactoryDotNet.dll
+D:\DUC\New folder (2)\C#VSPLC_giuaki\C#VSPLC_giuaki\he_thong_xu_ly_nuoc_thai\he_thong_xu_ly_nuoc_thai\bin\Debug\SymbolFactoryNetEngine.dll
+D:\DUC\New folder (2)\C#VSPLC_giuaki\C#VSPLC_giuaki\he_thong_xu_ly_nuoc_thai\he_thong_xu_ly_nuoc_thai\obj\Debug\he_thong_xu_ly_nuoc_thai.csproj.AssemblyReference.cache
+D:\DUC\New folder (2)\C#VSPLC_giuaki\C#VSPLC_giuaki\he_thong_xu_ly_nuoc_thai\he_thong_xu_ly_nuoc_thai\obj\Debug\he_thong_xu_ly_nuoc_thai.Form1.resources
+D:\DUC\New folder (2)\C#VSPLC_giuaki\C#VSPLC_giuaki\he_thong_xu_ly_nuoc_thai\he_thong_xu_ly_nuoc_thai\obj\Debug\he_thong_xu_ly_nuoc_thai.Properties.Resources.resources
+D:\DUC\New folder (2)\C#VSPLC_giuaki\C#VSPLC_giuaki\he_thong_xu_ly_nuoc_thai\he_thong_xu_ly_nuoc_thai\obj\Debug\he_thong_xu_ly_nuoc_thai.csproj.GenerateResource.cache
+D:\DUC\New folder (2)\C#VSPLC_giuaki\C#VSPLC_giuaki\he_thong_xu_ly_nuoc_thai\he_thong_xu_ly_nuoc_thai\obj\Debug\he_thong_xu_ly_nuoc_thai.csproj.CoreCompileInputs.cache
+D:\DUC\New folder (2)\C#VSPLC_giuaki\C#VSPLC_giuaki\he_thong_xu_ly_nuoc_thai\he_thong_xu_ly_nuoc_thai\obj\Debug\he_thong_xu_ly_nuoc_thai.csproj.CopyComplete
+D:\DUC\New folder (2)\C#VSPLC_giuaki\C#VSPLC_giuaki\he_thong_xu_ly_nuoc_thai\he_thong_xu_ly_nuoc_thai\obj\Debug\he_thong_xu_ly_nuoc_thai.exe
+D:\DUC\New folder (2)\C#VSPLC_giuaki\C#VSPLC_giuaki\he_thong_xu_ly_nuoc_thai\he_thong_xu_ly_nuoc_thai\obj\Debug\he_thong_xu_ly_nuoc_thai.pdb
